@@ -1,26 +1,26 @@
 #Environment
 env:
-  LC_ALL: "ru_RU.UTF-8"
+  LC_ALL: "en_US.UTF-8"
 
 #Window customizations
 window:
   dimensions:
-    columns: 90
-    lines: 25
+    columns: 80
+    lines: 24
 
   position:
-    x: 250
-    y: 150
+    x: 240
+    y: 170
 
   padding:
     x: 5 
     y: 10
 
-  decorations: none
+  decorations: none 
 
-  startup_mode: Windowed
+  startup_mode: Windowed 
 
-background_opacity: 0.95
+background_opacity: 0.92
 
 dynamic_title: true
 
@@ -38,7 +38,7 @@ font:
   bold_italic:
     family: Hack
     style: Bold Italic
-  size: 12.0
+  size: 16.0
 
   offset:
     x: 2
