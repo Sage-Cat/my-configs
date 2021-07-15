@@ -18,7 +18,7 @@ window:
 
   decorations: none 
 
-  startup_mode: Windowed 
+  startup_mode: Maximized 
 
 background_opacity: 0.92
 
@@ -83,4 +83,3 @@ cursor:
 
 key_bindings:
   - { key: N, mods: Control|Shift, action: SpawnNewInstance }
-
