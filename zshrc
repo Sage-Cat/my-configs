@@ -118,10 +118,4 @@ alias git-save-my-environment="
   cd -;
 "
 
-
-
-
-
-
-
-
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
